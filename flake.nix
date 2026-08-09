@@ -40,7 +40,7 @@
             ".yml"
             "_defconfig"
           ];
-          zephyrDepsHash = "sha256-gsqiTDJLAihVyBXVFlgXwqRmlREcFJctKpl4tEWmVlY=";
+          zephyrDepsHash = "";
         in
         rec {
           default = firmware;
